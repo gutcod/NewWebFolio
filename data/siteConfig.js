@@ -75,16 +75,24 @@ module.exports = {
   ],
   portifolio: [
     {
-      image: '/images/gatsby-starter-cv.png',
-      description: 'Gatsby starter CV template',
-      url:
-        'https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/',
+      image: '/images/githubapp.jpeg',
+      title: 'Git-Search',
+      description: 'Github application',
+      url: 'https://gutcod.github.io/github-api/',
     },
     {
-      image: '/images/awesome-grid.png',
-      description: 'Responsive grid for ReactJS',
-      url: 'https://github.com/santosfrancisco/react-awesome-styled-grid',
+      image: '/images/quiz-app.jpeg',
+      title: 'Quiz-app',
+      description: 'Quiz App',
+      url: 'https://quiz2-95ca7.web.app/',
     },
+    {
+      image: '/images/robofriends.jpeg',
+      title: 'Robofriends',
+      description: 'Simple React app',
+      url: 'https://gutcod.github.io/robofriend/',
+    },
+
     /* more portifolio items here */
   ],
   social: {
@@ -92,7 +100,7 @@ module.exports = {
     github: 'https://github.com/gutcod',
     email: 'andrei.gutsan@gmail.com',
   },
-  siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
+
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
   googleAnalyticsId: 'UA-000000000-1',
