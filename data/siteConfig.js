@@ -87,6 +87,12 @@ module.exports = {
       url: 'https://quiz2-95ca7.web.app/',
     },
     {
+      image: '/images/note-app.jpeg',
+      title: 'Note-app',
+      description: 'App created with React Hooks, ContextAPI, Firebase',
+      url: 'https://invoice-test-82e61.web.app/',
+    },
+    {
       image: '/images/robofriends.jpeg',
       title: 'Robofriends',
       description: 'Simple React app',
