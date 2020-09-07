@@ -1,11 +1,11 @@
 module.exports = {
-  siteTitle: "Hi! I'm Andrei!",
-  siteDescription: `Create your online curriculum in just a few minutes with this starter`,
+  siteTitle: "Hello! I'm Andrei!",
+  siteDescription: `frontend developer`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Andrei Gutan',
   githubUsername: 'gutcod',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `A Self-taught programmer with an aspiration to become a full-stack Web Developer who holds a Chemical Engineering Degree. A tech-savvy individual with a keen interest in the lastest and the greatest gadgets and gizmos. Always Up-to-date with the latest happenings and connected with the world. Enthusiastic, Motivated, and Passionate to achieve my life goals. Getting things done is how I roll. Quick learner and a sound listener, Solving problems and debugging my way through LIFE!. Creating and maintaining excellent websites and applications for the internet is what I dream of. <br />`,
+  authorDescription: `A <strong>Self-taught programmer </strong> with an aspiration to become a <strong>Frontend Developer</strong> who holds a Chemical Engineering Degree. A tech-savvy individual with a keen interest in the lastest and the greatest gadgets and gizmos. Always Up-to-date with the latest happenings and connected with the world. Enthusiastic, Motivated, and Passionate to achieve my life goals. Getting things done is how I roll. Quick learner and a sound listener, Solving problems and debugging my way through LIFE!. Creating and maintaining excellent websites and applications for the internet is what I dream of. <br />`,
   skills: [
     {
       name: 'HTML',
@@ -17,15 +17,31 @@ module.exports = {
     },
     {
       name: 'Javascript',
-      level: 50,
-    },
-    {
-      name: 'NodeJs',
-      level: 40,
+      level: 70,
     },
     {
       name: 'React',
       level: 60,
+    },
+    {
+      name: 'Redux',
+      level: 40,
+    },
+    {
+      name: 'NodeJs',
+      level: 50,
+    },
+    {
+      name: 'Express',
+      level: 40,
+    },
+    {
+      name: 'MongoDB',
+      level: 50,
+    },
+    {
+      name: 'PostgreSQL',
+      level: 40,
     },
     {
       name: 'Git',
@@ -36,7 +52,7 @@ module.exports = {
   jobs: [
     /* more jobs here */
     {
-      company: 'Gympass',
+      company: 'Freelance',
       begin: {
         month: 'sep',
         year: '2019',
@@ -44,18 +60,17 @@ module.exports = {
       duration: null,
       occupation: 'Frontend developer',
       description:
-        'I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies.',
+        '- Collaborated with back-end engineers and designers to develop functional and appealing web-based applications with a focus on speed, efficiency, and great user experience -Translated the design wireframes into clean reusable code -Ensured responsive web design and cross-browser compatibility',
     },
     {
-      company: 'Lendico',
+      company: 'Rompetrol',
       begin: {
         month: 'apr',
         year: '2018',
       },
-      duration: null,
-      occupation: 'Frontend developer',
-      description:
-        'I integrate the Frontend team responsible for developing and maintaining the online lending platform.',
+      duration: '2 year',
+      occupation: 'Process Engineer',
+      description: `Prepare and review documents including PFDs, P&IDs, scopes of work, and equipment specifications to support the capital process.`,
     },
   ],
   portifolio: [
