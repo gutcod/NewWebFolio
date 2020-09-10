@@ -77,19 +77,19 @@ module.exports = {
     {
       image: '/images/githubapp.jpeg',
       title: 'Git-Search',
-      description: 'Github application',
+      description: 'React Hooks, ContextAPI',
       url: 'https://gutcod.github.io/github-api/',
     },
     {
       image: '/images/quiz-app.jpeg',
       title: 'Quiz-app',
-      description: 'Quiz App',
+      description: 'React, Redux, Firebase',
       url: 'https://quiz2-95ca7.web.app/',
     },
     {
       image: '/images/note-app.jpeg',
       title: 'Note-app',
-      description: 'App created with React Hooks, ContextAPI, Firebase',
+      description: 'React Hooks, ContextAPI, Firebase',
       url: 'https://invoice-test-82e61.web.app/',
     },
     {
