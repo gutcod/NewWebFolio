@@ -75,6 +75,12 @@ module.exports = {
   ],
   portifolio: [
     {
+      image: '/static/images/crwn-shop.jpeg',
+      title: 'CRWN-SHOP',
+      description: 'e-commerce with React, Firebase',
+      url: 'https://ag-crwn.herokuapp.com/',
+    },
+    {
       image: '/images/githubapp.jpeg',
       title: 'Git-Search',
       description: 'React Hooks, ContextAPI',
