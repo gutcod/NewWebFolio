@@ -75,7 +75,7 @@ module.exports = {
   ],
   portifolio: [
     {
-      image: '/static/images/crwn-shop.jpeg',
+      image: '/images/crwn-shop.jpeg',
       title: 'CRWN-SHOP',
       description: 'e-commerce with React, Firebase',
       url: 'https://ag-crwn.herokuapp.com/',
@@ -124,11 +124,11 @@ module.exports = {
   icon: 'src/assets/gatsby-icon.png',
   headerLinks: [
     {
-      label: 'Home',
+      label: 'HOME',
       url: '/',
     },
     {
-      label: 'Portifolio',
+      label: 'PORTFOLIO',
       url: '/portifolio',
     },
   ],

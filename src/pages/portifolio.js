@@ -11,8 +11,8 @@ import Wrapper from '../components/wrapper'
 const Layout = loadable(() => import('../components/layout'))
 
 const Image = styled.img`
-  max-height: 220px;
-  max-width: 220px;
+  max-height: 320px;
+  max-width: 320px;
   object-fit: cover;
   object-position: center center;
   border-radius: 10px;
