@@ -75,6 +75,12 @@ module.exports = {
   ],
   portifolio: [
     {
+      image: '/images/agface.jpeg',
+      title: 'AGFACE',
+      description: 'A smart app that will detect all faces in a pictures',
+      url: 'https://agface.herokuapp.com/',
+    },
+    {
       image: '/images/crwn-shop.jpeg',
       title: 'CRWN-SHOP',
       description: 'e-commerce with React, Firebase',
