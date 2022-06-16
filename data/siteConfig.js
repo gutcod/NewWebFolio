@@ -5,7 +5,7 @@ module.exports = {
   authorName: 'Andrei Gutan',
   githubUsername: 'gutcod',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `A <strong>Self-taught programmer </strong> with an aspiration to become a <strong>Frontend Developer</strong> who holds a Chemical Engineering Degree. A tech-savvy individual with a keen interest in the lastest and the greatest gadgets and gizmos. Always Up-to-date with the latest happenings and connected with the world. Enthusiastic, Motivated, and Passionate to achieve my life goals. Getting things done is how I roll. Quick learner and a sound listener, Solving problems and debugging my way through LIFE!. Creating and maintaining excellent websites and applications for the internet is what I dream of. <br />`,
+  authorDescription: `I consider myself a team person, who loves bringing smiles to people's faces. With high attention to detail and good practices, I am patient and I enjoy helping people overcome their problems. "If you can't explain it simply, you don't understand it well enough" and "Everyone you meet has something to teach you" are two of my favorite mottos.`,
   skills: [
     {
       name: 'HTML',
@@ -16,7 +16,7 @@ module.exports = {
       level: 60,
     },
     {
-      name: 'Javascript',
+      name: 'JavaScript',
       level: 70,
     },
     {
@@ -28,7 +28,15 @@ module.exports = {
       level: 40,
     },
     {
+      name: 'TypeScript',
+      level: 50,
+    },
+    {
       name: 'NodeJs',
+      level: 50,
+    },
+    {
+      name: 'Jest',
       level: 50,
     },
     {
@@ -52,25 +60,24 @@ module.exports = {
   jobs: [
     /* more jobs here */
     {
-      company: 'Freelance',
+      company: 'EveryMatrix',
       begin: {
-        month: 'sep',
-        year: '2019',
+        month: 'march',
+        year: '2021',
       },
       duration: null,
-      occupation: 'Frontend developer',
-      description:
-        '- Collaborated with back-end engineers and designers to develop functional and appealing web-based applications with a focus on speed, efficiency, and great user experience -Translated the design wireframes into clean reusable code -Ensured responsive web design and cross-browser compatibility',
+      occupation: 'Frontend Developer',
+      description: `Working on the Frontend team, being resposible for all components tooling that globally impact applications. Improved the app'\s performance and developer's workflow. Main technology used: Javascript, Typescript, React, Redux, Node.js, React testing Library`,
     },
     {
-      company: 'Rompetrol',
+      company: 'Cetbu-tech',
       begin: {
-        month: 'apr',
-        year: '2018',
+        month: 'nov',
+        year: '2019',
       },
-      duration: '2 year',
-      occupation: 'Process Engineer',
-      description: `Prepare and review documents including PFDs, P&IDs, scopes of work, and equipment specifications to support the capital process.`,
+      duration: '1 year',
+      occupation: 'Frontend Developer',
+      description: `Collaborated with back-end engineers and designers to develop functional and appealing web- based applications with a focus on speed, efficiency, and great user experience. Main technology used: Javascript, React, Redux, Node.js, CSS, HTML`,
     },
   ],
   portifolio: [
